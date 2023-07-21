@@ -82,31 +82,7 @@
 - 조회수가 높은순으로 5개의 기사를 Hot Topic에서 보여주도록 구현
 - 랜덤으로 오늘의 뉴스5개를 보여주도록 구현
 - 로그인 시 구독한 현황을 보여주도록 구현
-```javascript
-// media.js
-const deviceSizes = {
-  desktop: '1440px',
-  laptop: '1280px',
-  tablet: '1024px',
-  mobile: '768px',
-  phone: '480px',
-};
-
-const media = {
-  desktop: `screen and (max-width: ${deviceSizes.desktop})`,
-  laptop: `screen and (max-width: ${deviceSizes.laptop})`,
-  tablet: `screen and (max-width: ${deviceSizes.tablet})`,
-  mobile: `screen and (max-width: ${deviceSizes.mobile})`,
-  phone: `screen and (max-width: ${deviceSizes.phone})`,
-};
-
-export { deviceSizes, media };
-```
-
-<img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
-
-- 네비게이션 메뉴의 경우 mobile(768px)을 기준으로 그 이상일 경우 상단바, 이하일 경우 햄버거메뉴로 변경
-
+<!--
 ### **4. Email 전송**
 
 <img width="100%" alt="이메일 발신" src="https://user-images.githubusercontent.com/51189962/136146784-b8b42395-8a05-402a-b393-d0aa95580c7f.gif" />
