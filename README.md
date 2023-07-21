@@ -67,13 +67,13 @@
 
 ## **👨🏻‍💻 기능 구현**
 
-### **1. 라이트/다크 모드**
-<img width="100%" alt="라이트/다크모드" src="https://github.com/kalista00/NewsPage/issues/1#issue-1815182659](https://user-images.githubusercontent.com/122184547/255081709-7b46079c-73af-4bd1-96bb-00e42ba722cf.PNG" />
+### **1. 텍스트 검색**
 
-- 라이트 및 다크모드 기능 구현
-- 사용자의 시스템 모드에 맞게 theme이 설정되도록 구현
-- 사용자가 설정한 테마가 localStorage에 저장되어 한번 설정한 이후 같은 theme을 보여주도록 구현
+<img width="100%" alt="텍스트 검색" src="https://github.com/kalista00/NewsPage/assets/122184547/7b46079c-73af-4bd1-96bb-00e42ba722cf" />
 
+- 검색창에 입력한 텍스트에 글자가 포함되어 있는 제목의 기사들을 보여주도록 구현
+- 텍스트에 입력한 글자는 굵은 글씨로 보이도록 구현
+<!--
 ### **2. Hash Link**
 
 <img width="100%" alt="hashlink" src="https://user-images.githubusercontent.com/51189962/136143186-aeb70c36-8e21-40e7-b937-deea0e66ad18.gif" />
