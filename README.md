@@ -82,16 +82,23 @@
 - 조회수가 높은순으로 5개의 기사를 Hot Topic에서 보여주도록 구현
 - 랜덤으로 오늘의 뉴스5개를 보여주도록 구현
 - 로그인 시 구독한 현황을 보여주도록 구현
-<!--
-### **4. Email 전송**
 
-<img width="100%" alt="이메일 발신" src="https://user-images.githubusercontent.com/51189962/136146784-b8b42395-8a05-402a-b393-d0aa95580c7f.gif" />
-<img width="100%" alt="이메일 수신" src="https://user-images.githubusercontent.com/51189962/136147118-ae829b7e-7ca5-4ef0-92e2-f7adc70ddb29.png" />
+### **4. 언론사/회원 페이지**
+● 언론사 페이지
+<img width="100%" alt="언론사페이지" src="https://github.com/kalista00/NewsPage/assets/122184547/435935ad-22c4-48f6-8dda-36d531d181e3" />
 
-- EmailJS를 이용하여 서버없이 메일 서비스를 이용할 수 있도록 구현
-- Sweetalert를 이용하여 커스텀 alert를 구현
-- https://emailjs.com
-- https://sweetalert2.github.io/
+- 언론사에 해당하는 기자/기사 목록을 보여주도록 구현
+- 언론사 구독/취소 버튼 구현
+  
+● 회원/기자 페이지
+<img width="100%" alt="회원/기자페이지" src="https://github.com/kalista00/NewsPage/assets/122184547/e42f3827-2cbf-4d5b-be43-7156bf94df45" />
+
+- 회원/기자 정보를 보여주도록 구현
+- 회원페이지 -> 회원이 쓴 댓글 / 기자페이지 -> 기자가 쓴 기사를 보여주도록 구현
+- 회원페이지 -> 회원이 기자일 때 기자페이지로 이동버튼 구현
+- 본인의 페이지일 때 -> 정보수정이 가능하도록 구현
+- 본인의 페이지일 때 -> 회원탈퇴 가능하도록 구현
+- 본인의 페이지일 때 -> 구독현황으로 이동하는 버튼 구현
 
 ### **5. Open graph**
 
