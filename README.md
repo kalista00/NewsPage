@@ -64,12 +64,11 @@
 **링크:** <!--[https://keemtj.com](https://keemtj.com)-->
 
 <br />
-<!--
+
 ## **👨🏻‍💻 기능 구현**
 
 ### **1. 라이트/다크 모드**
-
-<img width="100%" alt="라이트/다크모드" src="https://user-images.githubusercontent.com/51189962/136142455-dd9bbdf1-4676-408c-bdc2-009f133e92db.gif" />
+<img width="100%" alt="라이트/다크모드" src="https://github.com/kalista00/NewsPage/issues/1#issue-1815182659" />
 
 - 라이트 및 다크모드 기능 구현
 - 사용자의 시스템 모드에 맞게 theme이 설정되도록 구현
