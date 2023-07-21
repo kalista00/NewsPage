@@ -76,12 +76,12 @@
 - Cookie를 이용한 자동로그인 구현
 - 아이디/비밀번호 찾기 구현
 - 로그인버튼에 커서가 올라가면 색이 바뀌도록 구현
-
 ### **3. 메인**
-<img width="100%" alt="메인" src="https://github.com/kalista00/NewsPage/assets/122184547/529419d1-1271-417a-99a3-2edb4f9a7fee" />
+<img width="100%" alt="메인" src="https://github.com/kalista00/NewsPage/assets/122184547/3ae6d6ef-eb9d-463b-a51d-659f90304ea3" />
 
-- 조회수가 높은순으로 5개의 기사를 핫토픽으로 보여줌
-
+- 조회수가 높은순으로 5개의 기사를 Hot Topic에서 보여주도록 구현
+- 랜덤으로 오늘의 뉴스5개를 보여주도록 구현
+- 로그인 시 구독한 현황을 보여주도록 구현
 ```javascript
 // media.js
 const deviceSizes = {
