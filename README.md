@@ -8,8 +8,8 @@
 - 🛠 [기술 및 도구](#-기술-및-도구)
 - 🔗 [링크](#-링크)
 - 👨🏻‍💻 [기능 구현](#-기능-구현)
-  - [텍스트 검색](#1-텍스트-검색)
-  - [Hash Link](#2-Hash-Link)
+  - [검색](#1-검색)
+  - [로그인](#2-로그인)
   - [반응형 웹](#3-반응형-웹)
   - [Email 전송](#4-Email-전송)
   - [Open graph](#5-Open-graph)
@@ -60,25 +60,27 @@
 
 ## **👨🏻‍💻 기능 구현**
 
-### **1. 텍스트 검색**
+### **1. 검색**
 
 <img width="100%" alt="텍스트 검색" src="https://github.com/kalista00/NewsPage/assets/122184547/7b46079c-73af-4bd1-96bb-00e42ba722cf" />
 
 - 검색창에 입력한 텍스트에 글자가 포함되어 있는 제목의 기사들을 보여주도록 구현
 - 텍스트에 입력한 글자는 굵은 글씨로 보이도록 구현
-<!--
-### **2. Hash Link**
+- 날짜별로 검색이 가능하도록 구현
+  
+### **2. 로그인**
 
-<img width="100%" alt="hashlink" src="https://user-images.githubusercontent.com/51189962/136143186-aeb70c36-8e21-40e7-b937-deea0e66ad18.gif" />
+<img width="100%" alt="로그인" src="https://github.com/kalista00/NewsPage/assets/122184547/ed916058-36ee-46b4-9821-caf264677a59" />
 
-- Hash Link링크를 이용하여 네비게이션에서 메뉴 클릭시 해당 영역으로 스크롤되도록 구현
-- 해당하는 메뉴의 영역은 Full page.js와 유사하게 스타일링함
+- 언어선택이 가능하도록 구현(한국어/영어)
+- Cookie를 이용한 자동로그인 구현
+- 아이디/비밀번호 찾기 구현
+- 로그인버튼에 커서가 올라가면 색이 바뀌도록 구현
 
-### **3. 반응형 웹**
+### **3. 메인**
+<img width="100%" alt="메인" src="https://github.com/kalista00/NewsPage/assets/122184547/529419d1-1271-417a-99a3-2edb4f9a7fee" />
 
-<img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/51189962/136144110-0a5cb56e-1dcf-4bc8-b7d8-b93bbb100744.gif" />
-
-- 5개의 endpoint를 두고 반응형을 구현함
+- 조회수가 높은순으로 5개의 기사를 핫토픽으로 보여줌
 
 ```javascript
 // media.js
