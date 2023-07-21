@@ -10,12 +10,11 @@
 - 👨🏻‍💻 [기능 구현](#-기능-구현)
   - [검색](#1-검색)
   - [로그인](#2-로그인)
-  - [반응형 웹](#3-반응형-웹)
-  - [Email 전송](#4-Email-전송)
-  - [Open graph](#5-Open-graph)
+  - [메인](#3-메인)
+  - [언론사/회원 페이지](#4-언론사/회원-페이지)
+  - [구독/스크랩현황](#5-구독/스크랩현황)
   - [기타](#6-기타-기능)
-- 🚀 [배포](#-배포)
-- ⏰ [커밋 히스토리](#-커밋-히스토리)
+
 
 </b>
 
@@ -100,60 +99,16 @@
 - 본인의 페이지일 때 -> 회원탈퇴 가능하도록 구현
 - 본인의 페이지일 때 -> 구독현황으로 이동하는 버튼 구현
 
-### **5. Open graph**
+### **5. 구독/스크랩현황**
 
-<img width="100%" alt="스크린샷 2021-10-06 15 02 30" src="https://user-images.githubusercontent.com/51189962/136148865-7b6cfd30-ae66-410f-89fa-16f9ad883c74.png" />
+<img width="100%" alt="구독현황" src="https://github.com/kalista00/NewsPage/assets/122184547/ed9e36cd-c50d-487a-b906-90f3fcd66763" />
 
-<img width="100%" alt="스크린샷 2021-10-06 15 03 15" src="https://user-images.githubusercontent.com/51189962/136148961-28e8c84b-b5fb-4052-9150-7c20e6af3cbc.png" />
-
-```html
-<!-- index.html -->
-<meta property="og:title" content="김태진 • Frontend Developer" />
-<meta property="og:description" content="프론트엔드 개발자 김태진입니다." />
-<meta property="og:image" content="%PUBLIC_URL%/thumb.png" />
-<meta property="og:url" content="https://keemtj.com/" />
-<meta property="og:type" content="website" />
-```
-
-- meta tags를 통해 Facebook, twitter, linkedin, discord, kakao talk 등 링크를 전달 했을 때 링크에 대한 정보를 볼 수 있도록 구현
-- https://www.opengraph.xyz
+- 전체 언론사를 각각 구독할 수 있도록 checkbox로 구현
+- 전체선택/취소가 가능하도록 구현
+- 구독이 되어있으면 체크가 되어있도록 구현
 
 ### **6. 기타 기능**
 
-- favicon.ico 생성
-- Fade-in transform
-- 프로젝트 페이지
-- React-responsive-carousel 커스텀
+- 헤더로 모든페이지 이동가능하도록 구현
+- 관리자일 시 모든페이지 제어가능하도록 구현
 
-## **🚀 배포**
-
-- 첫 배포
-
-```
-$ npm install -g firebase-tools
-$ firebase init
-$ firebase login
-  > HOSTING
-  > Directroy? build
-$ yarn build
-$ firebase deploy
-```
-
-- 수정 후 배포
-
-```
-$ yarn build
-$ firebase deploy
-```
-
-- 커스텀 도메인: Godaddy에서 커스텀 도매인 구매(https://keemtj.com)
-
-<br />
-
-## ⏰ 커밋 히스토리
-
-[내 커밋 히스토리 보러가기](https://github.com/keemtj/portfolio/commits?author=keemtj)
-<br/>
-<br/>
-<br/>
--->
