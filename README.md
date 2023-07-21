@@ -36,19 +36,19 @@
 >
 > **협업 도구:** Github, Sourcetree, GoogleDocs
 >
-> **개발 환경:** Eclipse 4.26.0, Java11, Tomcat 9.0.73, Oracle 22.2.1.234, HTML5, CSS, JavaScript, Smarteditor 1.6
+> **개발 환경:** Eclipse, Java11, Tomcat 9, Oracle, HTML5, CSS, JavaScript, Smarteditor
 >
 > **문의:** rambo71025453@gmail.com
 
 <br />
-<!--
+
 ## **🛠 기술 및 도구**
 
-![React](https://img.shields.io/badge/React-53C1DE?style=flat-square&logo=react&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/Java-53C1DE?style=flat-square&logo=react&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 <br />
-
+<!--
 ## **🔗 링크**
 
 **링크:** [https://keemtj.com](https://keemtj.com)
