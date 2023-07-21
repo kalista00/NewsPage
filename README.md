@@ -32,12 +32,7 @@
 > **주요 기능:** 계정 관련, 구독/스크랩, 관리자페이지, 뉴스페이지
 >
 > **문의:** rambo71025453@gmail.com
-<!--
-> **협업 도구:** Github, Sourcetree, GoogleDocs
->
-> **개발 환경:** Eclipse, Java11, Tomcat 9, Oracle, HTML5, CSS, JavaScript, Smarteditor
->
--->
+
 <br />
 
 ## **🛠 기술 및 도구**
