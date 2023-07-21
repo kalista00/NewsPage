@@ -44,8 +44,26 @@
 
 ## **🛠 기술 및 도구**
 
-![Java](https://img.shields.io/badge/Java-53C1DE?style=flat-square&logo=react&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
+  <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"></a> &nbsp
+   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp 
+  
+
+</p>
 
 <br />
 <!--
