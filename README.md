@@ -1,4 +1,4 @@
-![image](https://github.com/kalista00/NewsPage/assets/122184547/31596e19-4f88-4c7b-ab39-094ab99923ec)# **PORTFOLIO**
+**PORTFOLIO**
 
 ## **📗 목차**
 
